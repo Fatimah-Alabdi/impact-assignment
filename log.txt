@@ -1,0 +1,27 @@
+تم التشغيل ✅
+تم التشغيل ✅
+تم التشغيل ✅
+تم التشغيل ✅
+2025-05-15 - تم التشغيل ✅
+2025-05-18 - Revenue: 120.5, Orders: 25 ✅
+ 
+2025-05-18 - Revenue: 120.5, Orders: 25 ✅
+Failed to fetch data: 403 Client Error: Forbidden for url: https://impact.com/Feeds/iherb_data.csv?SID=your_sid_here
+Data added successfully.
+Failed to fetch data: 403 Client Error: Forbidden for url: https://impact.com/Feeds/iherb_data.csv?SID=your_sid_here
+Data added successfully.
+Failed to fetch data: 403 Client Error: Forbidden for url: https://impact.com/Feeds/iherb_data.csv?SID=your_sid_here
+Data added successfully.
+Failed to fetch data: 403 Client Error: Forbidden for url: https://impact.com/Feeds/iherb_data.csv?SID=your_sid_here
+Data added successfully.
+Failed to fetch data: 403 Client Error: Forbidden for url: https://impact.com/Feeds/iherb_data.csv?SID=your_sid_here
+Data added successfully.
+Failed to fetch data: 403 Client Error: Forbidden for url: https://impact.com/Feeds/iherb_data.csv?SID=your_sid_here
+Data added successfully.
+Failed to fetch data: 403 Client Error: Forbidden for url: https://impact.com/Feeds/iherb_data.csv?SID=your_sid_here
+Data added successfully.
+Failed to fetch data: 403 Client Error: Forbidden for url: https://impact.com/Feeds/iherb_data.csv?SID=your_sid_here
+Data added successfully.
+Failed to fetch data: 403 Client Error: Forbidden for url: https://impact.com/Feeds/iherb_data.csv?SID=your_sid_here
+Data added successfully.
+2025-05-19 - Revenue: 120.5, Orders: 25 ✅
